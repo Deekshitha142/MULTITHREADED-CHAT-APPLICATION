@@ -47,4 +47,10 @@ Applications and Use Cases of this chat application include:
 
 💬 Text-based chat for games or developer collaboration tools
 
-OUTPUT : 
+OUTPUT : CLIENT
+![Image](https://github.com/user-attachments/assets/f67a6a13-bd0a-4c0d-a619-0ae04ca23e78)
+
+SERVER
+![Image](https://github.com/user-attachments/assets/64f1c7ab-874d-472c-9a06-72ba11c15550)
+
+
